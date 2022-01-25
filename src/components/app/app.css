@@ -1,0 +1,10 @@
+.app{
+    padding: 20px;
+}
+.app .item-list{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.app .buttons .error-button{
+    margin-left: 5px;
+}
